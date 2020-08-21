@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.zup.beagle:kotlin-core:1.1.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/kotlin-core/1.1.1/794e134e6345330ab95f261522251f20c5ad3428/kotlin-core-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/kotlin-core/1.1.1/bd6e77b1aeff18744f13f2f6a4551dd5d40dba7b/kotlin-core-1.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/kotlin-core/1.1.1/d9a9e129ae3a953a383d08117b76a10a559461e5/kotlin-core-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
