@@ -12,5 +12,4 @@ class AppDesignSystem : DesignSystem() {
 
         else -> super.image(id)
     }
-
 }
